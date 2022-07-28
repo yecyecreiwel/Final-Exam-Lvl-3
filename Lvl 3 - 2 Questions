@@ -1,0 +1,13 @@
+1. Differentiate between Multiprocessing and Multithreading. Explain.
+In order to perform functions and code in parallel, multitasking is useful. For example, if two operations are independent of one another, 
+they may be separated into separate for-loops. The capacity of a processor to operate many threads simultaneously, each of which runs a process, 
+is known as multithreading. While multiprocessing refers to a system's capacity to use many processors simultaneously,
+each of which is capable of managing one or more threads.
+
+2. Explain the difference between Serial Computing and Parallel
+Computing.
+Serial processing does a single operation at a time, whereas parallel processing executes numerous tasks at once. 
+This is the primary distinction between serial and parallel processing in computer architecture.
+A computer system's functionality, structure, and implementation are determined by its computer architecture. 
+It outlines the architecture of the computer system and the technologies it can work with. One of the most crucial parts of the computer system is the CPU. 
+It carries out commands and finishes the duties given to it. Serial and parallel processing are the two primary forms of processing.
